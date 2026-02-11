@@ -13,7 +13,7 @@
 ## 담당 역할 및 기술 스택
 
 - **역할** : 실시간 응급실 조회 페이지 구현
-- **프론트** : HTML, CSS, JavaScript(AJAX), Jquer
+- **프론트** : HTML, CSS, JavaScript(AJAX), Jquery
 - **백엔드** : Django
 - **DB** : MySQL, Django ORM
 - **서버** : AWS EC2

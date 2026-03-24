@@ -1,8 +1,9 @@
 # 안희원 포트폴리오
 
-## 👥팀 프로젝트 1
+## 👥팀 프로젝트 1 - 2025.11.19 ~ 2025.12.24
 
-![image.png](attachment:319d10f8-e194-41ed-af04-d4848f11c38f:image.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8955e90f-b581-4fdc-aff7-ea9d4ccc220b" />
+
 
 **🔗**[공공의료 데이터 기반 응급실·병원 예약 통합 웹 사이트](https://github.com/AhnHeeWon020622/CareBridge)
 
@@ -22,9 +23,10 @@
 
 ---
 
-## 👥팀 프로젝트 2
+## 👥팀 프로젝트 2 - 2026.02.10 ~ 2026.03.31
 
-![image.png](attachment:da0dd6d2-0204-42cb-be8b-a5a0f360177d:image.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a628737-17c1-4efe-869d-4e13f0999658" />
+
 
 **🔗[AI 기반 진로 상담 분석 플랫폼](https://github.com/AhnHeeWon020622/Jinro)**
 

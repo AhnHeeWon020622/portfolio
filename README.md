@@ -29,7 +29,9 @@
 
 ## 👥팀 프로젝트 2 - 2026.02.10 ~ 2026.03.31
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a628737-17c1-4efe-869d-4e13f0999658" />
+
+<img width="1920" height="1080" alt="wmremove-transformed" src="https://github.com/user-attachments/assets/cef54cc4-8910-431e-b067-b8d0be893376" />
+
 
 
 **🔗[AI 기반 진로 상담 분석 플랫폼](https://github.com/AhnHeeWon020622/Jinro)**

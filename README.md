@@ -1,10 +1,5 @@
 # 안희원 포트폴리오
 
-## 👤개인 프로젝트 1 - 25.10.1 ~ 25.10.12
-(추가 예정)
-
----
-
 ## 👥팀 프로젝트 1 - 2025.11.19 ~ 2025.12.24
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8955e90f-b581-4fdc-aff7-ea9d4ccc220b" />
@@ -14,16 +9,20 @@
 
 ## ✔역할
 
-- 공공의료 API 데이터 파싱 및 가공 로직 구현
-- 응급실 실시간 조회 페이지 및 필터 기능 개발
-- 데이터 생성 주기 분리(3분 / 30분) 구조 설계
-
-
-## ✔ 기술 포인트
-
-- Django 기반 API 서버에서 외부 API 데이터 가공 및 전달 구조 설계
-- AJAX 기반 비동기 응답 처리 및 실시간 데이터 반영
+- 응급실 데이터 처리 파이프라인 설계 (Staging → Main 구조)
+- 종합 점수 기반 추천 로직 설계 및 구현
 - API 지연 대응을 위한 timeout 및 예외 처리(fallback) 로직 구현
+- AJAX 기반 비동기 응답 처리 및 실시간 데이터 반영
+
+---
+
+## ⚙️ 전체 기술 스택
+
+- **Frontend** : HTML, CSS, JavaScript (AJAX), jQuery
+- **Backend** : Django
+- **Database** : MySQL
+- **Server** : AWS EC2
+- **API** : 공공데이터포털 API(XML), Kakao Map API
 
 ---
 
@@ -36,18 +35,21 @@
 
 **🔗[AI 기반 진로 상담 분석 플랫폼](https://github.com/AhnHeeWon020622/Jinro)**
 
-## ✔역할
+## ✔ 역할
 
-- STT → LLM 데이터 처리 파이프라인 구현
-- 음성 파일 전처리(wav 변환, 16kHz, mono) 및 분할 처리 로직 개발
+- Faster-Whisper 기반 STT → LLM 데이터 처리 파이프라인 구축 및 안정성 개선
+- 긴 음성 처리 문제 해결을 위해 5분 단위 분할 및 병렬 처리 구조 설계
 - 세션 기반 이어보기 기능 및 전체 상담 흐름 설계
 
+---
 
-## ✔ 기술 포인트
+## ⚙️ 전체 기술 스택
 
-- **MediaPipe** 기반 얼굴/시선/표정 분석을 통한 집중도·흥미도 계산
-- **STT(Faster-Whisper) → LLM(gpt-4o-mini)** 파이프라인 구축
-- 긴 음성 처리 최적화를 위한 5분 단위 분할 + 병렬 처리 구조 설계
+- **Frontend** : React, Redux
+- **Backend** : FastAPI
+- **Database** : MySQL
+- **Server** : AWS EC2
+- **Model & API** : MediaPipe, MobileNet v2, Faster-Whisper, OpenAI GPT-4o-mini
 
 ---
 

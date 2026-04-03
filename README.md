@@ -1,33 +1,10 @@
 # 안희원 포트폴리오
 
-## 👥팀 프로젝트 1 - 2025.11.19 ~ 2025.12.24
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8955e90f-b581-4fdc-aff7-ea9d4ccc220b" />
 
 
-**🔗**[공공의료 데이터 기반 응급실·병원 예약 통합 웹 사이트](https://github.com/AhnHeeWon020622/CareBridge)
+## 👥팀 프로젝트 1 (공모전) - 2026.02.10 ~ 2026.03.31
 
-## ✔역할
-
-- 응급실 데이터 처리 파이프라인 설계 (Staging → Main 구조)
-- 종합 점수 기반 추천 로직 설계 및 구현
-- API 지연 대응을 위한 timeout 및 예외 처리(fallback) 로직 구현
-- AJAX 기반 비동기 응답 처리 및 실시간 데이터 반영
-
----
-
-## ⚙️ 전체 기술 스택
-
-- **Frontend** : HTML, CSS, JavaScript (AJAX), jQuery
-- **Backend** : Django
-- **Database** : MySQL
-- **Server** : AWS EC2
-- **API** : 공공데이터포털 API(XML), Kakao Map API
-
----
-
-## 👥팀 프로젝트 2 - 2026.02.10 ~ 2026.03.31
-
+<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/50f1242c-4dc5-45fb-9d55-4f329d8c4561" />
 
 <img width="1920" height="1080" alt="wmremove-transformed" src="https://github.com/user-attachments/assets/cef54cc4-8910-431e-b067-b8d0be893376" />
 
@@ -53,76 +30,35 @@
 
 ---
 
+## 👥팀 프로젝트 2 - 2025.11.19 ~ 2025.12.24
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8955e90f-b581-4fdc-aff7-ea9d4ccc220b" />
+
+
+**🔗**[공공의료 데이터 기반 응급실·병원 예약 통합 웹 사이트](https://github.com/AhnHeeWon020622/CareBridge)
+
+## ✔역할
+
+- 응급실 데이터 처리 파이프라인 설계 (Staging → Main 구조)
+- 종합 점수 기반 추천 로직 설계 및 구현
+- API 지연 대응을 위한 timeout 및 예외 처리(fallback) 로직 구현
+- AJAX 기반 비동기 응답 처리 및 실시간 데이터 반영
+
+---
+
+## ⚙️ 전체 기술 스택
+
+- **Frontend** : HTML, CSS, JavaScript (AJAX), jQuery
+- **Backend** : Django
+- **Database** : MySQL
+- **Server** : AWS EC2
+- **API** : 공공데이터포털 API(XML), Kakao Map API
+
+---
+
 ## 코리아IT아카데미 이수 교육 내역서
+<img width="908" height="1282" alt="image" src="https://github.com/user-attachments/assets/a5519966-6737-4525-a169-8356e7cc4ff5" />
 
-**이수 과정명**
+<img width="909" height="1280" alt="image" src="https://github.com/user-attachments/assets/f9008deb-23b3-4783-8b72-b610954869d9" />
 
-- K-digital 랭체인을 활용한 AI 영상객체탐지분석 플랫폼 구축과정
 
-**교육 기간**
-
-- **2025.08.27 ~ 2025.03.30 (총 1100시간)**
-
-**교육 내용**
-
-### 🐍 Python (총 **131시간**)
-
-- Python 기본 문법 및 고급 문법 학습 (103시간)
-- 데이터 처리·자동화·비동기 처리 기반 실습
-- 웹/AI 프로젝트를 위한 Python 서버 사이드 로직 구현 경험
-- Python 웹/AI 연계 실습 심화 과정 수료 (28시간)
-
-### 🗄️ RDBMS / MySQL (총 **40시간**)
-
-- DDL, DML, DCL 기반 SQL 작성
-- JOIN, SubQuery, 집계 함수 활용
-- 트랜잭션, ER 다이어그램 기반 데이터 모델링 실습
-- 정규화를 고려한 테이블 설계 경험
-
-### 📊 데이터 수집 · 저장 · 분석 (총 **78시간**)
-
-- 데이터 수집 및 저장 구조 이해 (32시간)
-- Pandas, NumPy 기반 데이터 정제 및 분석
-- EDA 및 시각화를 통한 데이터 인사이트 도출
-- 실습 기반 데이터 분석 파이프라인 경험
-
-### 🤖 머신러닝 · 딥러닝 (총 **96시간**)
-
-- 머신러닝 기본 개념 및 모델 구현 (40시간)
-- 딥러닝 구조(CNN 중심) 이해 및 실습 (56시간)
-- 학습·평가·과적합 대응 등 모델 학습 전 과정 경험
-
-### 🧠 GAN · RNN (총 **20시간**)
-
-- 생성 모델(GAN) 구조 이해
-- 순환 신경망(RNN) 기반 시계열·문장 처리 실습
-
-### 👁️ 컴퓨터 비전 / OpenCV (총 **80시간**)
-
-- 컴퓨터 비전 기초 이론 및 실습 (24시간)
-- OpenCV 기반 이미지 처리·객체 인식 실습 (24시간)
-- OpenCV + AI 융합 프로젝트 수행 (32시간)
-
-### 🧾 자연어 처리 · LLM · RAG (총 **116시간**)
-
-- 자연어 처리 기본 개념 및 실습 (36시간)
-- LLM 구조 이해 및 활용 실습 (32시간)
-- 프롬프트 엔지니어링 실습 (16시간)
-- RAG(검색 증강 생성) 기반 시스템 설계·구현 (32시간)
-
-### 🌐 웹 인터페이스 / 프론트엔드 (총 **100시간**)
-
-- HTML / CSS / JavaScript 기반 웹 UI 구현
-- AJAX, Fetch API를 활용한 비동기 통신
-- 사용자 경험을 고려한 화면 설계 및 인터랙션 구현
-
-### 🛠️ Django 웹 프레임워크 (총 **64시간**)
-
-- MTV 패턴 기반 웹 애플리케이션 설계
-- ORM, 인증, 세션, 파일 업로드 구현
-- 실제 서비스 구조를 고려한 웹 프로젝트 수행
-
-### 🔧 Git / GitHub (총 **8시간**)
-
-- Git 기반 형상 관리 및 브랜치 전략 사용
-- 팀 프로젝트 및 포트폴리오 레포지토리 관리 경험

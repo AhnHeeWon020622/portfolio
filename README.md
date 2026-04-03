@@ -54,11 +54,4 @@
 - **Server** : AWS EC2
 - **API** : 공공데이터포털 API(XML), Kakao Map API
 
----
-
-## 코리아IT아카데미 이수 교육 내역서
-<img width="908" height="1282" alt="image" src="https://github.com/user-attachments/assets/a5519966-6737-4525-a169-8356e7cc4ff5" />
-
-<img width="909" height="1280" alt="image" src="https://github.com/user-attachments/assets/f9008deb-23b3-4783-8b72-b610954869d9" />
-
 
